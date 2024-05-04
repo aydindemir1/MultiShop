@@ -1,4 +1,7 @@
-# MultiShop Asp.Net Core MultiShop Mikroservis E-Ticaret Kursu Redis, Docker, MongoDb, PostgreSQL, Onion Arch, CQRS, Ocelot, Postman, Identity Server ve Daha Fazlası Bu Kursta!
+# MultiShop Asp.Net Core MultiShop Mikroservis E-Ticaret Projesi Redis, Docker, MongoDb, PostgreSQL, Onion Arch, CQRS, Ocelot, Postman, Identity Server ve Daha Fazlası Bu Projede!
+#  Projem gerçek bir senaryo üzerinde her bir başlığı ayrı bir mikro serviste tutulduğu dolu dolu bir içerikle sizleri bekliyor.
+# Giriş yapan kullanıcılar için ayrı, misafir kullanıcılar için ayrı, admin için ayrı bir yetkilendirme senaryosuna sahip projemizde tam bir e-ticaret senaryosu uygulandı.
+# Sıfırdan boş bir Solution altında MultiShop isminde dolu dolu bir proje hazırladım. Bu projede neler yok ki;
 Redis
 
 Dapper
@@ -12,6 +15,12 @@ PostgreSQL
 MSSQL
 
 SQLLite
+
+RabbitMQ
+
+Caching
+
+Logging
 
 Google Drive Entegreli Fotoğraf Yükleme
 
