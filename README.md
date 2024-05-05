@@ -1,4 +1,4 @@
- Kursumuz Mikroservis mimarisinde tamamen Api Backendi ile tek Solutionda her sınıf kütüphanesi de bir katman kabul edilirse 24 katmanın (Web UI, Class Library, Api) ayağa kaldırılmasıyla çalışıyor.
+ Projemiz Mikroservis mimarisinde tamamen Api Backendi ile tek Solutionda her sınıf kütüphanesi de bir katman kabul edilirse 24 katmanın (Web UI, Class Library, Api) ayağa kaldırılmasıyla çalışıyor.
  
 Projemizde MSSQL, MongoDB, PostgreSQL, Redis, SQLLite gibi birbirinden farklı 5 veri tabanı var. (Azure Db de eklenecek)
 
